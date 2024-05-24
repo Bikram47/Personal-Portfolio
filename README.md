@@ -11,5 +11,7 @@ Contact: A form and links to my social media profiles.
 
 Technologies Used
     HTML5
+	
     CSS3
+	
     JavaScript
